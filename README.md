@@ -4,7 +4,7 @@
 - **Tanggal : 19 Juni 2019**
 
 ## Penjelasan 
-Merupakan repo yang digunakan untuk menyimpan file hasil pembelajaran pada hari 03 (pertama) minggu 01 (pertama). 
+Merupakan repo yang digunakan untuk menyimpan file hasil pembelajaran pada hari 03 (ketiga) minggu 01 (pertama). 
 
 
 ## Ringkasan Materi
